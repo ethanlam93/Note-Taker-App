@@ -34,6 +34,9 @@ node server.js
 ## Screenshot and Video Demo
 <img width="1195" alt="Screen Shot 2020-08-28 at 12 10 14 AM" src="https://user-images.githubusercontent.com/64672854/91520320-faf6d000-e8c2-11ea-9fe7-0c78fc2dd763.png">
 <img width="1157" alt="Screen Shot 2020-08-28 at 12 10 21 AM" src="https://user-images.githubusercontent.com/64672854/91520321-fb8f6680-e8c2-11ea-9644-838a849b12f4.png">
+https://www.youtube.com/watch?v=11bU10YKQg0&feature=youtu.be
+
+## Deployed Application
 https://note-taker-app-gt.herokuapp.com/
 
 
